@@ -3,3 +3,15 @@ h1 {
 	align-items: center;
 	justify-content: center;
 }
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.container-fluid {
+	background-color: #1E526A;
+}
